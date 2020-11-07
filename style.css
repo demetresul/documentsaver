@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+/* }
+main{
+    width: 100%;
+    
+
+}
+
+section{
+    margin:100px auto;
+}
+
+
+button{
+    background-color: red;
+    border: none;
+    width: 50px;
+    height: 20px;
+    color: white;
+    
+}
+
+.InformHere{
+    background-color: yellow;
+margin: auto;
+width: 200px;
+height: 200px;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+} */
+
+.formarea{
+    width: 25%;
+    margin: 200px auto;
+  
+}
+.addbtn{
+    margin: auto;
+    display: flex;
+    margin-top: 8px;
+    border: none;
+    background-color: cornflowerblue;
+}
+
+.motherofh1{
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+.card{
+    margin: 20px 20px;
+    margin: auto;
+    margin-top: 40px;
+}
